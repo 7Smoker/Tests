@@ -1,3 +1,10 @@
 {
-    "4325819349": {"tag": "Smoke Private", "color": [255, 0, 0]}
+  "printScripter6": {
+    "tag": "Smoke Developer",
+    "color": [255, 61, 77]
+  },
+  "sert030": {
+    "tag": "Smoke Private",
+    "color": [222, 52, 235]
+  }
 }
