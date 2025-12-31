@@ -523,3 +523,5 @@ function guiLibrary.api.createTab(Name: string)
 
 	return guiLibrary.windows[Name]
 end
+
+return guiLibrary
